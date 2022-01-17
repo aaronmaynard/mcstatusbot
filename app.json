@@ -4,11 +4,11 @@
     "repository": "https://github.com/RahulR100/mcstatusbot/",
     "env": {
         "TOKEN": {
-            "description": "OTMyNTI4MTAyODUxMTA0ODA4.YeUSeQ.jEaYLzsmk_DqIDGZPIi31UK04qk",
+            "description": "CHANGE",
             "required": true
         },
         "CLIENT_ID": {
-            "description":"932528102851104808",
+            "description":"CHANGE",
             "required": true
         }
     }
